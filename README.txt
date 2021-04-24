@@ -1,6 +1,6 @@
 I run this c++ script using:
 Windows10 
-Eclipse
+Eclipse build&run
 MinGW GCC  
 Eclipse C/C++ Development Tool (CDT)
 
